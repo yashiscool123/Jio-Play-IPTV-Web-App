@@ -167,7 +167,7 @@ if (file_exists($login)) {?>
 			<div class="wrap-login100 p-l-110 p-r-110 p-t-62 p-b-33">
 				<form action="account.php" method="POST" class="login100-form validate-form flex-sb flex-w">
 					<span class="login100-form-title p-b-53">
-						Login to JIOTV
+						Login to Jio TV
 					</span>
 					<div class="p-t-31 p-b-9">
 						
