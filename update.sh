@@ -1,4 +1,4 @@
-git clone https://github.com/Mobassar4u/Jio-Play-IPTV-Web-App.git
+git clone https://github.com/Mobassar4u/Jio-Play-IPTV-Web-App
 rm -rf /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/
 mkdir /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/
 cp -r jiotv/* /data/data/com.termux/files/usr/share/apache2/default-site/htdocs && rm -rf jiotv/
