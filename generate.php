@@ -3,7 +3,7 @@ $playlist = fopen("playlist.m3u", "w") or die("Unable to open file!");
 $ipadd=$_GET["ipadd"];
 
 $modlist =
-'#EXTM3U url-tvg="http://kodi.botallen.com/tv/epg.xml"
+'#EXTM3U url-tvg="https://bit.ly/3QuMYs0"
 
 #EXTINF: -1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title=" Entertainment", Colors HD
 http://'.$ipadd.'/live.php?c=Colors_HD&q=1200&e=junk.m3u8
