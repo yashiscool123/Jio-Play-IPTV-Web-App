@@ -1,7 +1,7 @@
 git clone https://github.com/Mobassar4u/Jio-Play-IPTV-Web-App
 rm -rf /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/
 mkdir /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/
-cp -r jiotv/* /data/data/com.termux/files/usr/share/apache2/default-site/htdocs && rm -rf jiotv/
+cp -r Jio-Play-IPTV-Web-App/* /data/data/com.termux/files/usr/share/apache2/default-site/htdocs && rm -rf Jio-Play-IPTV-Web-App/
 rm /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/httpd.conf /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/android.sh /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/jiotv.sh
 mkdir -p .termux/boot
 mv /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/auto_boot.sh ./.termux/boot/
