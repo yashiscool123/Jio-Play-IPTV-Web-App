@@ -4,8 +4,8 @@ sudo apt -y install php php-cli php-fpm php-json php-common php-mysql php-zip ph
 git clone https://github.com/Mobassar4u/Jio-Play-IPTV-Web-App
 sudo chmod -R 777 /var/www/html
 sudo rm /var/www/html/*
-sudo cp -r jiotv/. /var/www/html/
-sudo rm -rf jiotv/
+sudo cp -r Jio-Play-IPTV-Web-App/. /var/www/html/
+sudo rm -rf Jio-Play-IPTV-Web-App/
 sudo systemctl restart apache2.service
 ip route get 1.2.3.4 | awk '{print $7}' > ipaddr.txt
 clear
