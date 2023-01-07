@@ -6,7 +6,7 @@ wget https://raw.githubusercontent.com/Mobassar4u/Jio-Play-IPTV-Web-App/master/h
 mv httpd.conf /data/data/com.termux/files/usr/etc/apache2/
 
 git clone https://github.com/Mobassar4u/Jio-Play-IPTV-Web-App
-cp -r jiotv/* /data/data/com.termux/files/usr/share/apache2/default-site/htdocs && rm -rf jiotv/
+cp -r Jio-Play-IPTV-Web-App/* /data/data/com.termux/files/usr/share/apache2/default-site/htdocs && rm -rf jiotv/
 rm /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/httpd.conf /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/android.sh /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/jiotv.sh
 mv /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/update.sh ./
 
