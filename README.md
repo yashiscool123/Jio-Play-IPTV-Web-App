@@ -1,4 +1,4 @@
-# Jio TV PHP Server (Work Only Indian Server)
+   # Jio TV PHP Server
 
 #### Just Install The Php Script.. Its Easy With Zero Configuration
 
