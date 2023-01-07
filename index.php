@@ -218,7 +218,7 @@ if (file_exists($login)) {?>
 				</form>
 				<div class="container-login100-form-btn m-t-17">
 						<button class="login100-form-btn" onclick="document.location='getsso.php'">
-							Try Autologin
+							Try Auto login With Jio Number
 						</button>
 				</div>
 			</div>
