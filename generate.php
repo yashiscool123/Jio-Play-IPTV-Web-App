@@ -155,12 +155,6 @@ http://'.$ipadd.'/live.php?c=India_news&q=800&e=junk.m3u8
 http://'.$ipadd.'/live.php?c=Tez&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="531" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title=" News", News18 RAJASTHAN
 http://'.$ipadd.'/live.php?c=ETV_RAJASTHAN&q=800&e=junk.m3u8
-';
-
-fwrite($playlist, $modlist);
-
-
-$modlist='
 #EXTINF: -1 tvg-id="792" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png" group-title=" News", News State UK UP
 http://'.$ipadd.'/live.php?c=News_State_UK_UP&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title=" News", News18 MP
@@ -425,12 +419,6 @@ http://'.$ipadd.'/live.php?c=Jio_Events&q=800&e=junk.m3u8
 http://'.$ipadd.'/live.php?c=Animal_Planet_English&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="242" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title=" Infotainment", Discovery
 http://'.$ipadd.'/live.php?c=Discovery&q=800&e=junk.m3u8
-';
-
-fwrite($playlist, $modlist);
-
-
-$modlist='
 #EXTINF: -1 tvg-id="823" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title=" Infotainment", Sony BBC Earth SD
 http://'.$ipadd.'/live.php?c=Sony_BBC_Earth_SD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="583" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title=" Infotainment", DD Kisan
@@ -649,12 +637,6 @@ http://'.$ipadd.'/live.php?c=Swayam_Prabha_13&q=800&e=junk.m3u8
 http://'.$ipadd.'/live.php?c=Swayam_Prabha_14&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="995" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_15.png" group-title=" Educational", Swayam Prabha 15
 http://'.$ipadd.'/live.php?c=Swayam_Prabha_15&q=800&e=junk.m3u8
-';
-
-fwrite($playlist, $modlist);
-
-
-$modlist='
 #EXTINF: -1 tvg-id="994" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_16.png" group-title=" Educational", Swayam Prabha 16
 http://'.$ipadd.'/live.php?c=Swayam_Prabha_16&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="996" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_17.png" group-title=" Educational", Swayam Prabha 17
@@ -907,12 +889,6 @@ http://'.$ipadd.'/live.php?c=Jaya_Max&q=800&e=junk.m3u8
 http://'.$ipadd.'/live.php?c=Nick_Tamil&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="542" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title=" Tamil", Pogo Tamil
 http://'.$ipadd.'/live.php?c=Pogo_Tamil&q=800&e=junk.m3u8
-';
-
-fwrite($playlist, $modlist);
-
-
-$modlist='
 #EXTINF: -1 tvg-id="817" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title=" Tamil", Cartoon Network Tamil
 http://'.$ipadd.'/live.php?c=Cartoon_Network_Tamil&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="569" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title=" Tamil", D Tamil
@@ -1121,12 +1097,6 @@ http://'.$ipadd.'/live.php?c=ETV_News_Gujarati&q=800&e=junk.m3u8
 http://'.$ipadd.'/live.php?c=Tv_9_Gujarat&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="641" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png" group-title=" Gujarati", ABP Asmita
 http://'.$ipadd.'/live.php?c=ABP_Asmita&q=800&e=junk.m3u8
-';
-
-fwrite($playlist, $modlist);
-
-
-$modlist='
 #EXTINF: -1 tvg-id="642" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" group-title=" Gujarati", VTV Gujarati
 http://'.$ipadd.'/live.php?c=VTV_Gujarati&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="782" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sandesh_News.png" group-title=" Gujarati", Sandesh News
@@ -1275,12 +1245,6 @@ http://'.$ipadd.'/live.php?c=Public_Music&q=800&e=junk.m3u8
 http://'.$ipadd.'/live.php?c=Samara_News&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="1075" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ayush_TV.png" group-title=" Kannada", Ayush TV
 http://'.$ipadd.'/live.php?c=Ayush_TV&q=800&e=junk.m3u8
-';
-
-fwrite($playlist, $modlist);
-
-
-$modlist='
 #EXTINF: -1 tvg-id="829" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png" group-title=" Kannada", Sri Sankara
 http://'.$ipadd.'/live.php?c=Sri_Sankara&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="785" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title=" Kannada", Colors Super
