@@ -33,7 +33,7 @@ If You Don't Know JioID and Pass then Simply click on autologin button
 4. If your PC is connected to jio network click on Try AutoLogin Button or else use your jio email-id and password to login
 6. Check your IP and port or your domain and click on generate playlist.
 
-####  For Ubuntu -
+####  For Ubuntu Server -
 ##### Run The Following Commands
 
     wget https://raw.githubusercontent.com/Mobassar4u/Jio-Play-IPTV-Web-App/master/jiotv.sh
