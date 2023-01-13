@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://bit.ly/3QuMYs0"
 
 #EXTINF:-1 tvg-id="430" group-title=" Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
-http://'.$ipadd.'/autoq.php?c=Jio_Cricket
+http://'.$ipadd.'/autoq.php?c=Jio_Cricket_HD
 #EXTINF:-1 tvg-id="1918" group-title=" Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",Jio Cricket English HD
-http://'.$ipadd.'/autoq.php?c=Jio_Cricket_English
+http://'.$ipadd.'/autoq.php?c=Jio_Cricket_English_HD
 #EXTINF:-1 tvg-id="144" group-title=" Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://'.$ipadd.'/autoq.php?c=Colors_HD
 #EXTINF:-1 tvg-id="291" group-title=" Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
